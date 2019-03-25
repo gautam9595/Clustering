@@ -1,7 +1,6 @@
-import numpy as np, pandas as pd
+import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
-import itertools
-from sklearn.metrics import confusion_matrix
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import TruncatedSVD
 from sklearn.preprocessing import Normalizer
